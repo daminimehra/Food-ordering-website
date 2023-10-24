@@ -1,4 +1,4 @@
-# Food-ordering-website
+# Food-ordering-website(NAMASTE FOODIE)
 I made  Food ordering App from scratch using React.js and Parcel.js 🚀
 
 ## 🔥 Clone this Repository
